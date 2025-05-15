@@ -117,7 +117,7 @@
                   }
                 }
               },
-              "initialLoad": "Auto"
+              "initialLoad": "Enabled"
             }
           }
         },
